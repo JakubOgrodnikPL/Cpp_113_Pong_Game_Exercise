@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1651600033 source:c:\users\jakub\documents\pong\main.cpp
+	<iostream>
+	<time.h>
+	<conio.h>
+
+1651597141 source:c:\users\jakub\documents\programowanie\pong\main.cpp
+	<iostream>
+	<time.h>
+	<conio.h>
+
